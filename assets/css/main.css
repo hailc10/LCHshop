@@ -7,7 +7,7 @@
     background-image: linear-gradient(0,#ff6433,#f8492f);
 }
 
-.header__navbar{
+.header__navbar {
     display: flex;
     justify-content: space-between;
 }
@@ -113,7 +113,7 @@
     display: block;
 }
 
-.header__navbar-item--has-notify:hover .header__notify{
+.header__navbar-item--has-notify:hover .header__notify {
     display: block;
 }
 
