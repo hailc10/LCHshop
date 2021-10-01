@@ -321,7 +321,6 @@
 
 .header__notify-info {
     margin-left: 12px;
-    
 }
 
 .header__notify-name {
@@ -494,6 +493,7 @@
 
 .header__mobile-search {
     padding: 0 12px;
+    display: none;
 }
 
 .header__mobile-search-icon {
@@ -1008,7 +1008,7 @@
 
 /* Mobile category */
 .mobile-category {
-
+    display: none;
 }
 
 .mobile-category__list {
@@ -1059,6 +1059,7 @@
     user-select: none;
     -webkit-user-select: none;
     cursor: pointer;
+    padding: 0 6px;
 }
 
 
